@@ -1,0 +1,14 @@
+C:\Users\Miller19\source\repos\EM_Creatures_Prog02\EM_Creatures_Prog02\obj\Debug\net8.0\EM_Creatures_Prog02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miller19\source\repos\EM_Creatures_Prog02\EM_Creatures_Prog02\obj\Debug\net8.0\EM_Creatures_Prog02.AssemblyInfoInputs.cache
+C:\Users\Miller19\source\repos\EM_Creatures_Prog02\EM_Creatures_Prog02\obj\Debug\net8.0\EM_Creatures_Prog02.AssemblyInfo.cs
+C:\Users\Miller19\source\repos\EM_Creatures_Prog02\EM_Creatures_Prog02\obj\Debug\net8.0\EM_Creatures_Prog02.csproj.CoreCompileInputs.cache
+C:\Users\Miller19\source\repos\EM_Creatures_Prog02\EM_Creatures_Prog02\bin\Debug\net8.0\EM_Creatures_Prog02.exe
+C:\Users\Miller19\source\repos\EM_Creatures_Prog02\EM_Creatures_Prog02\bin\Debug\net8.0\EM_Creatures_Prog02.deps.json
+C:\Users\Miller19\source\repos\EM_Creatures_Prog02\EM_Creatures_Prog02\bin\Debug\net8.0\EM_Creatures_Prog02.runtimeconfig.json
+C:\Users\Miller19\source\repos\EM_Creatures_Prog02\EM_Creatures_Prog02\bin\Debug\net8.0\EM_Creatures_Prog02.dll
+C:\Users\Miller19\source\repos\EM_Creatures_Prog02\EM_Creatures_Prog02\bin\Debug\net8.0\EM_Creatures_Prog02.pdb
+C:\Users\Miller19\source\repos\EM_Creatures_Prog02\EM_Creatures_Prog02\obj\Debug\net8.0\EM_Creatures_Prog02.dll
+C:\Users\Miller19\source\repos\EM_Creatures_Prog02\EM_Creatures_Prog02\obj\Debug\net8.0\refint\EM_Creatures_Prog02.dll
+C:\Users\Miller19\source\repos\EM_Creatures_Prog02\EM_Creatures_Prog02\obj\Debug\net8.0\EM_Creatures_Prog02.pdb
+C:\Users\Miller19\source\repos\EM_Creatures_Prog02\EM_Creatures_Prog02\obj\Debug\net8.0\EM_Creatures_Prog02.genruntimeconfig.cache
+C:\Users\Miller19\source\repos\EM_Creatures_Prog02\EM_Creatures_Prog02\obj\Debug\net8.0\ref\EM_Creatures_Prog02.dll
